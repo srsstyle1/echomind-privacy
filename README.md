@@ -19,4 +19,5 @@ EchoMind offers optional subscriptions that unlock additional features such as u
 
 ## Contact
 If you have questions about this Privacy Policy, contact:  
-support@echomind.app
+biswal.sagar.job@gmail.com
+
