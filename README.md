@@ -10,6 +10,7 @@ The information is used solely to provide AI-powered note generation and product
 
 ## Data Storage
 Voice recordings and generated notes are stored locally on your device unless you choose to export or share them.
+Users can delete recordings and notes at any time from within the app.
 
 ## Third-Party Services
 EchoMind may use third-party services, including AI processing providers and subscription services, to operate the app.
